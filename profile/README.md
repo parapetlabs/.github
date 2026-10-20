@@ -8,13 +8,18 @@ We audit **EVM** and **Solana** smart contracts: manual review, AI scanning, fuz
 
 Read our published work in **[public-Audits](https://github.com/parapetlabs/public-Audits)**.
 
-<br clear="left">
+<br clear="all">
 
 <img src="assets/protocols.svg" alt="Parapet Labs track record: 500+ vulnerabilities found and reported, $65B+ total value secured. Protocols include PancakeSwap, Chainlink, BNB Chain, Ronin Network, Sablier, Kinetiq, EigenCloud, Succinct, Reserve Protocol, Alchemix, XRP Ledger and Olas, plus 27+ more." width="100%">
 
 # Contact us
 
-- Email: [contact@parapetlabs.net](mailto:contact@parapetlabs.net)
-- Website: [parapetlabs.net](https://parapetlabs.net)
-- Book a call: [calendly.com/parapetlabs](https://calendly.com/parapetlabs)
-- Socials: [X](https://x.com/parapetlabs) · [LinkedIn](https://www.linkedin.com/company/parapetlabs) · [Telegram](https://t.me/mrzizah)
+<p>
+<a href="https://parapetlabs.net/#contact"><img src="assets/btn-review.svg" alt="Book a security review"></a>&nbsp;
+<a href="mailto:contact@parapetlabs.net"><img src="assets/btn-email.svg" alt="Email contact@parapetlabs.net"></a>&nbsp;
+<a href="https://t.me/mrzizah"><img src="assets/btn-telegram.svg" alt="Telegram @mrzizah"></a>&nbsp;
+<a href="https://calendly.com/parapetlabs"><img src="assets/btn-call.svg" alt="Book a 30-minute call"></a>&nbsp;
+<a href="https://parapetlabs.net"><img src="assets/btn-web.svg" alt="Website parapetlabs.net"></a>&nbsp;
+<a href="https://x.com/parapetlabs"><img src="assets/btn-x.svg" alt="X @parapetlabs"></a>&nbsp;
+<a href="https://www.linkedin.com/company/parapetlabs"><img src="assets/btn-linkedin.svg" alt="LinkedIn Parapet Labs"></a>&nbsp;
+</p>
